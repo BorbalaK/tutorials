@@ -1,1 +1,1 @@
-I am Sam and I like ham. This is our first command.
+I am a ham and some people call me ham. This is our first command.
